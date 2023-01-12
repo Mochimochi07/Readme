@@ -13,7 +13,7 @@ I don't use python anymore but i might include my past apps that i made before w
 My Techniques, Notebooks, Application architecture, and other IOT are not here but these will be posted on my website in the future.
 More Apps, Notebooks and Tools to be posted after the connection so stay tuned at March.
 
-Note: I will be posting only Xojo pics of my own dashboards, tools and apps. Because Xojo is used withn an ide and the IDE makes it all in one place.
+Note: I will be posting only Xojo pics of my own dashboards, tools and apps. Because Xojo is used within an IDE and the IDE makes it all in one place including the Webframework.
 
 
 
