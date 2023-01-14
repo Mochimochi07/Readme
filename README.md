@@ -16,6 +16,17 @@ Well I might consider making games but i would prioritize it for last.
 I wouldd prefer Golang first for software programminng because i will be using Xojo for IOT.
 Yes, I found two of my ideal programming language but i still have to get one more because i am finding atleast three for getting into the big three.
 
+The two of my ideal programming language are xojo and C# because if i would be in a programming certification test i would be using those for making GUI easier.
+But i do need more time to learn web services first that's why i went to Golang and Javascript.
+Javascript for front end and Golang for backend. 
+I know C# is fast and powerful because i saw the web benchmarks but i cant handle those things without gettting the basics of handling servers.
+Well, what about concurrency? CMS? CDN? usage of static files? the tokens like jwt or others?
+Thats what im talking about getting much resources first before i go on getting C# and Xojo.
+Xojo is more advanced like VBA and C# is powerful and on par with Java.
+I didnt use xojo and C# because i dont have funds to go get more sources.
+In Xojo its kinda better if i would have xojo license because of the auto build feature for building with multiple OS.
+Like i would build in Windows and the feature just builds the same app for other OS like IOS.
+
 My Techniques, Notebooks, Application architecture, and other IOT are not here but these will be posted on my website in the future.
 More Apps, Notebooks and Tools to be posted after the connection so stay tuned at March.
 
