@@ -49,7 +49,7 @@ i still have to find some sources that i can use for programming.
 
 Note: I will be starting the competitive programming for real after 35 repositories and after that i will be posting my answers everyday. Its not easy finding sources so I might take a little while.
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 My Techniques, Notebooks, Application architecture, and other IOT are not here but these will be posted on my website in the future.
 More Apps, Notebooks and Tools to be posted after the connection so stay tuned at March.
