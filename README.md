@@ -44,8 +44,22 @@ It might be a little rough because im coaching and literally changing fate of th
 It might take a while for me to get things running.
 i still have to find some sources that i can use for programming.
 
+++++++++++++ 6
 
-++++++++++++ 
+I will be posting Competitive programs for 3 problems a day.
+Fair enough for me to learn and improve. 
+How about the repos?
+Ill just say that for every 6 problems I make a new repository for systems or web.
+if problem%6==0 then repo++.
+
+I'll start sharing Github profile and repositories at March.
+
+
+
+
+
+
+++++++++++++
 
 Note: I will be starting the competitive programming for real after 35 repositories and after that i will be posting my answers everyday. Its not easy finding sources so I might take a little while.
 
