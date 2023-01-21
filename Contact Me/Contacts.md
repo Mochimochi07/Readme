@@ -6,7 +6,7 @@ personal email for Data Science and Entertainment <br>
 ajdeleonrazon55@gmail.com<br>
 personal email for Games, App development and requests<br>
 deleonlunatic@gmail.com<br>
-personal email for Drive and Storage<br>
+personal email for Drive, Cyber forensics and Storage<br>
 xeriouszenkimmy@gmail.com <br>
 <br>
 
