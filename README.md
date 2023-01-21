@@ -72,12 +72,12 @@ An example for that is how i can make apps with just a mug and a spoon.
 I dont tap the mug with a spoon.
 The modification of this is just art and physics.
 You cant modify the mug because it will electrify the consumer but you can use the surroundings.
-the spoon and the kettle can be modified into one.
-where the kettle can have a drill effect with a dettacheable spoon upon it as a whisk.
-And No..you dont bbeat eggs with it.
+the spoon and the stationaty kettle can be modified into one.
+where the stationary kettle can have a drill effect with a dettacheable spoon upon it as a whisk.
+And No..you dont beat eggs with it.
 While you have a coffee powder in your mug you can just use the modified Kettle spoon as a kettle with a whisk.
-Then there you go you just got yourself a coffee mug product.
-
+Then there you go you just got yourself a coffee and a mug product.
+Thats just for IOT and the app is the modified Kettle and spoon with arduino
 
 
 ++++++++++++
