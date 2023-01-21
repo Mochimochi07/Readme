@@ -62,13 +62,21 @@ So i concluded that I'll be posting a maximumof 5 in my competitive programming.
 Honestly its not beneficial to learn it.
 Lets just say that the reality of that is just Simulating the problems in a computer.
 the problems that data scientist and mathematicians can simulate witthin a short time.
-Thats the bad news.
+That is the bad news.
+
 The good news is that I still have that competitiveness but its for Hackathon only.
 Yes, only for generating good apps because thats what i feel like doing.
-Like how artists level in music but mine is just in apps andd modifications.
-yeah, i also have that skill bit in apps and i had trained for it long ago.
-
-
+Like my fave artist level in music but mine is just in apps andd modifications.
+yeah, i also have that skill but in apps and i had trained for it long ago.
+An example for that is how i can make apps with just a mug and a spoon.
+I dont tap the mug with a spoon.
+The modification of this is just art and physics.
+You cant modify the mug because it will electrify the consumer but you can use the surroundings.
+the spoon and the kettle can be modified into one.
+where the kettle can have a drill effect with a dettacheable spoon upon it as a whisk.
+And No..you dont bbeat eggs with it.
+While you have a coffee powder in your mug you can just use the modified Kettle spoon as a kettle with a whisk.
+Then there you go you just got yourself a coffee mug product.
 
 
 
