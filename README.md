@@ -54,6 +54,16 @@ if problem%6==0 then repo++.
 
 I'll start sharing Github profile and repositories at March.
 
+++++++++++++ 7
+
+Hey, uh... I think i wont be in competitive programming anymore. 
+I want to stop grinding for those solutions because its not what my curiosity wants.
+So i concluded that I'll be posting a maximumof 5 in my competitive programming.
+Honestly its not beneficial to learn it.
+Lets just say that the reality of that is just Simulating the problems in a computer.
+the problems that data scientist and mathematicians can simulate witthin a short time.
+Thats the bad news.
+The good news is that I still have that competitiveness but its for Hackathon only.
 
 
 
