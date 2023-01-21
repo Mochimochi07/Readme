@@ -64,6 +64,9 @@ Lets just say that the reality of that is just Simulating the problems in a comp
 the problems that data scientist and mathematicians can simulate witthin a short time.
 Thats the bad news.
 The good news is that I still have that competitiveness but its for Hackathon only.
+Yes, only for generating good apps because thats what i feel like doing.
+Like how charlie puth's level in music but mine is just in apps andd modifications.
+yeah, i also have that skill bit in apps and i had trained for it long ago.
 
 
 
