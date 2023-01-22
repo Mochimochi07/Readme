@@ -9,5 +9,5 @@ I am slowly sharing how i express my things in the internet.
 
 Like politics, architecture, science and many more that you might be weirded out.
 
-I have tons of views that you might not know about.
+I have tons of references as inspirations like eastereggs while i do coding.
 
