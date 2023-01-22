@@ -1,6 +1,6 @@
 This is my playlist repo.
 
-This is my playlist 
+
 I have shared my playlist because i want to show my inspirations,sources and favorites.
 
 The youtube account was the first layer of my Personal information because I have tons of securities for data.
