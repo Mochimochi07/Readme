@@ -11,3 +11,4 @@ Like politics, architecture, science and many more that you might be weirded out
 
 I have tons of references as inspirations like eastereggs while i do coding.
 
+I am not active in the playlist account by the way.
