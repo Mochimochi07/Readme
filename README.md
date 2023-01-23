@@ -80,7 +80,16 @@ Then there you go you just got yourself a coffee and a mug product.
 Thats just for IOT and the app is the modified Kettle and spoon with arduino
 
 
-++++++++++++
+++++++++++++ 8 
+
+I have decided that i will not be making tons of readme files.
+But i made a plan to make it more of a fullstack static design. 
+I did that so it will be more Organized.
+I want to see it more of an organized front end thing
+because there are lots of repositories now.
+
+
+
 
 Note: I will be starting the competitive programming for real after 35 repositories and after that i will be posting my answers everyday. Its not easy finding sources so I might take a little while.
 
