@@ -87,6 +87,8 @@ But i made a plan to make it more of a fullstack static design.
 I did that so it will be more Organized.
 I want to see it more of an organized front end thing
 because there are lots of repositories now.
+I mean I want people to navigate my repositories through my overview.
+Where my overview is the static text path for my codes.
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
