@@ -20,5 +20,20 @@ I learned GUI first when i was still learning programming and i didnt know much 
 
 
 
+Golang Repository Routes:
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+
+
 
 
