@@ -88,11 +88,6 @@ I did that so it will be more Organized.
 I want to see it more of an organized front end thing
 because there are lots of repositories now.
 
-
-
-
-Note: I will be starting the competitive programming for real after 35 repositories and after that i will be posting my answers everyday. Its not easy finding sources so I might take a little while.
-
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 My Techniques, Notebooks, Application architecture, and other IOT are not here but these will be posted on my website in the future.
