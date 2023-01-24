@@ -90,6 +90,13 @@ because there are lots of repositories now.
 I mean I want people to navigate my repositories through my overview.
 Where my overview is the static text path for my codes.
 
+++++++++++++ 9
+
+I will be inserting some pictures to make it more understandable.
+Its going to be a little weird and a little fun for the moment.
+
+
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 My Techniques, Notebooks, Application architecture, and other IOT are not here but these will be posted on my website in the future.
