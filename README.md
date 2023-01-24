@@ -94,6 +94,9 @@ Where my overview is the static text path for my codes.
 
 I will be inserting some pictures to make it more understandable.
 Its going to be a little weird and a little fun for the moment.
+Its going to take a little time for me to have some cleaning.
+February is near so i might need to do some literature for that.
+
 
 
 
