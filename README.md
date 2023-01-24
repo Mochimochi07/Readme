@@ -96,6 +96,8 @@ I will be inserting some pictures to make it more understandable.
 Its going to be a little weird and a little fun for the moment.
 Its going to take a little time for me to have some cleaning.
 February is near so i might need to do some literature for that.
+I took off my music because i will be putting it somewhere.
+yup, i just like learning things in secret places.
 
 
 
