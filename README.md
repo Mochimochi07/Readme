@@ -100,6 +100,11 @@ I took off my music because i will be putting it somewhere.
 yup, i just like learning things in secret places.
 
 
+++++++++++++ 10
+
+This is how i will learn React and i like it.
+
+
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
