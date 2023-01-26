@@ -102,7 +102,10 @@ yup, i just like learning things in secret places.
 
 ++++++++++++ 10
 
+I took off some of the literatures and art. 
 This is how i will learn React and i like it.
+I love the way that it really goes connected to the way i want to express.
+even though i would have a hard time on designing im still in the mood for doing things.
 
 
 
