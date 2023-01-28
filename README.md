@@ -109,6 +109,16 @@ even though i would have a hard time on designing im still in the mood for doing
 And i took off the datascience and cybersecurity.
 I didnt took it off permanently because i just need to focus more on web dev for a moment.
 
+++++++++++++ 11
+
+I took off the other parts and focused more on big three of IT which kinda forms the IOT in software.
+IOT also has the big three which are the software,hardware and the technical part.
+I already had some few experience and support for the technical part.
+I use low level pcs and some low level things when i was trained about troubleshooting and other things before.
+I just need to focus more on the big three in software so i decided to give more energy to it and less to other things.
+i code from 
+
+
 
 
 
