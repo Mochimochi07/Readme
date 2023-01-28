@@ -117,8 +117,10 @@ I already had some few experience and support for the technical part.
 I use low level pcs and some low level things when i was trained about troubleshooting and other things before.
 I just need to focus more on the big three in software so i decided to give more energy to it and less to other things.
 i code using laptops and pcs which were literally repaired so having technical things learned is a boost.
-Well, it does have some malfunctions but it still performs good.
-
+Well, it does have some malfunctions all the time but it still performs good.
+I do have a hard time with the fetching part of the front end so i might take little time learning with the static part.
+Still need to configure the repos since i made a language categorized repos.
+i might take the time from march to april
 
 
 
