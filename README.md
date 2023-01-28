@@ -116,7 +116,8 @@ IOT also has the big three which are the software,hardware and the technical par
 I already had some few experience and support for the technical part.
 I use low level pcs and some low level things when i was trained about troubleshooting and other things before.
 I just need to focus more on the big three in software so i decided to give more energy to it and less to other things.
-i code from 
+i code using laptops and pcs which were literally repaired so having technical things learned is a boost.
+Well, it does have some malfunctions but it still performs good.
 
 
 
