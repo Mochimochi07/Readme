@@ -120,8 +120,7 @@ i code using laptops and pcs which were literally repaired so having technical t
 Well, it does have some malfunctions all the time but it still performs good.
 I do have a hard time with the fetching part of the front end so i might take little time learning with the static part.
 Still need to configure the repos since i made a language categorized repos.
-i might take the time from march to april
-
+i might take the time from march to april.
 
 
 
