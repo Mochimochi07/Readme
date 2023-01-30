@@ -5,9 +5,8 @@ This is the repo where I keep all my app dev systems.
 Yeah, its hard to explain because i still need answer upon Linking things.
 I just like upgrading and linking things to other things.
 I usually dont build much but i do make up for it in the features sections.
-I didnt upload the others because they are forked amd the other things that i made are from my curiosity 
-
-
+I didnt upload the others because they are forked, the other things that i made are from my curiosity
+and the other things were challenges for coding.
 
 
 
