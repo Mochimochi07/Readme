@@ -122,6 +122,12 @@ I do have a hard time with the fetching part of the front end so i might take li
 Still need to configure the repos since i made a language categorized repos.
 i might take the time from march to april.
 
+++++++++++++ 12
+
+I want a little more rest so i decided to go configure my repos for a while.
+The challenge is not much cancelled but i'll put it up in my literature tab so its not a waste.
+
+
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
