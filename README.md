@@ -126,18 +126,20 @@ i might take the time from march to april.
 
 I want a little more rest so i decided to go configure my repos for a while.
 The challenge is not much cancelled but i'll put it up in my literature tab so its not a waste.
+I put up the literature in Cybersecurity because there are many things that literataure can be used in that area.
+Like sending a Mona Lisa pic with cryptography.
+I dont play games anymore because i like making builds.
+I may be off from coding for a while.
+
 
 
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-My Techniques, Notebooks, Application architecture, and other IOT are not here but these will be posted on my website in the future.
-More Apps, Notebooks and Tools to be posted after the connection so stay tuned at March.
 
 
 
-Note: In terms of Xojo programming, I will be posting only pics of my own dashboards, tools and apps. Because Xojo is used within an IDE and the IDE makes it all in one place including the Webframework.
 
 
 
