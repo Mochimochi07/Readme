@@ -13,7 +13,7 @@ and the other things were challenges for coding.
 Here are the routes.
 
 
-<p>Golanguage</p>
+<p>1.Golanguage</p>
 
 <p><a href="https://github.com/Mochimochi07/Go_BMOapp">GoBMOApp</a></p>
 
@@ -31,7 +31,7 @@ Here are the routes.
 
 <p><a href="https://github.com/Mochimochi07/Golang_codes">Golang Fundamentals</a></p>
 
-2.Javascript
+<p>2.Javascript</p>
 
 <p><a href="https://github.com/Mochimochi07/ExpressJS_SQL_CRUD">ExpressCrud</a></p>
 
