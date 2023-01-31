@@ -131,7 +131,10 @@ Like sending a Mona Lisa pic with cryptography.
 I dont play games anymore because i like making builds.
 I may be off from coding for a while.
 
+++++++++++++ 13
 
+I added Cybersecurity but i only limited the repo for a maximum of 3 apps.
+its kinda beneficial if people would just go training because they also get paid.
 
 
 
