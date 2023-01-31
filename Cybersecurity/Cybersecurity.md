@@ -9,3 +9,6 @@ Where is art in data protection?
 Thats a good question.
 Art in data protection lives within digital security for data stored in databases.
 Like Mysterio's BARF technology, it lives to amuse and protect the data in various ways.
+Mysterio uses holographic environments to simulate surrealism.
+Where's the data?
+its safe because intruders will never know about the new technology combined with art.
