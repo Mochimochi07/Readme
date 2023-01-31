@@ -135,8 +135,9 @@ I may be off from coding for a while.
 
 I added Cybersecurity but i only limited the repo for a maximum of 3 apps.
 its kinda beneficial if people would just go training because they also get paid.
-
-
+In terms of cyberforensics, you might not see some of these here.
+I will be using some of those in IOT.
+Yeah, its kind of useful in there.
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
