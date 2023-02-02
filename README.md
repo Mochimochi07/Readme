@@ -141,7 +141,10 @@ Yeah, its kind of useful in there.
 
 ++++++++++++ 14
 
-I took off all the other business where i cant focus
+I took off all the other business where i cant focus.
+i replaced them for app dev as features so that it would be a waste again.
+i needed to reuse tons of them for learning Appdev and IOT for the future.
+I might need to take a little time to rest for myself.
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
