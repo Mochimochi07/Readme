@@ -152,6 +152,7 @@ i still wanted to use wix but i need to focus more on the apps and how i impleme
 Im still active but i will not be coding at the moment.
 Next time im going to try harder and generate x4 more effort.
 yeah, i also have techniques for that.
+Its not very easy being burnt out all the time.
 in terms of coding, I might be back after a week.
 
 
