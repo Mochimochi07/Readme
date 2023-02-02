@@ -139,6 +139,10 @@ In terms of cyberforensics, you might not see some of these here.
 I will be using some of those in IOT.
 Yeah, its kind of useful in there.
 
+++++++++++++ 14
+
+I took off all the other business where i cant focus
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
