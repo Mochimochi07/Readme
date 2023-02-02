@@ -145,8 +145,18 @@ I took off all the other business where i cant focus.
 i replaced them for app dev as features so that it would be a waste again.
 i needed to reuse tons of them for learning Appdev and IOT for the future.
 I might need to take a little time to rest for myself.
+I set up my wix and It might take me time to get the hang of this.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Wix took a little long to make my own front end and UI so i rather use my old Canva for that.
+i still wanted to use wix but i need to focus more on the apps and how i implement them.
+Im still active but i will not be coding at the moment.
+Next time im going to try harder and generate x4 more effort.
+yeah, i also have techniques for that.
+in terms of coding, I might be back after a week.
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
