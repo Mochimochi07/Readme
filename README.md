@@ -162,7 +162,7 @@ I was confused at first but i was happy at the end.
 It seems like im still ahead of the times.
 Im happy that people will have some Accessibility through my future technology.
 Architecture will be a must for us in order to build apps.
-Still training for web 4.0 and I will be fruitful when it comes.
+Still training for web 4.0 and I will be happy when it comes .
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
