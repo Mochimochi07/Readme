@@ -155,6 +155,9 @@ yeah, and i also have techniques for that.
 Its not very easy being burnt out all the time.
 in terms of coding, I might be back after a week.
 
+++++++++++++ 15
+
+Just searched up the evolution of the web.
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
