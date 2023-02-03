@@ -158,6 +158,11 @@ in terms of coding, I might be back after a week.
 ++++++++++++ 15
 
 Just searched up the evolution of the web.
+I was confused at first but i was happy at the end.
+It seems like im still ahead of the times.
+Im happy that people will have some Accessibility through my future technology.
+Architecture will be a must for us in order to build apps.
+
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
