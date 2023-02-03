@@ -164,6 +164,9 @@ Im happy that people will have some Accessibility through my future technology.
 Architecture will be a must for us in order to build apps.
 Still training for web 4.0 and I will be happy when it comes .
 
+I have to make cybersecurity and AI a feature because App development is more in demand.
+I cant wait to go back to coding next week.
+
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
