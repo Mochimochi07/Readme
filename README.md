@@ -174,8 +174,16 @@ im still tired but i still need some fresh air to go back learning backend dev a
 I just liked C++ months ago and decided to understand and use it.
 Well i did have some stored pdfs about python,c++ and other programming languages that i can share.
 I did forgot that i have those things and also forgot to rate the seller wth 5stars in facebook after 3 months buying it.
-C++ is also a must in webdev and IOT. 
-I know it still gave me past traumas making triangles in loops but I learned to love the complexity of it.
+I also realize the means of literally buying a C++ before when im in a mall.
+C++ is also a must in webdev,datascience,cybersecurity and IOT.
+I decided to go upgrading golang by using c++.
+I know it still gave me past traumas by making triangles in loops but I learned to love the complexity of it.
+I cant wait to use Drogon C++ and make apps with it.
+I like the fact that this thing give me the curiosity in things like how does one unit in game punch another unit.
+btw it uses a separate channel with a function to connect the controls pressed.
+yeah i just searched the neural networks and i just gave me a boost.
+
+
 
 
 
