@@ -180,8 +180,8 @@ I decided to go upgrading golang by using c++.
 I know it still gave me past traumas by making triangles in loops but I learned to love the complexity of it.
 I cant wait to use Drogon C++ and make apps with it.
 I like the fact that this thing give me the curiosity in things like how does one unit in game punch another unit.
-btw it uses a separate channel with a function to connect the controls pressed.
-yeah i just searched the neural networks and i just gave me a boost.
+btw it uses a separate channel with a function(with damage calculation and targeting) to connect the controls pressed and targets the unit.
+yeah i just searched that in neural networks and it just gave me a boost.
 
 
 
