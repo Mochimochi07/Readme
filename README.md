@@ -167,6 +167,16 @@ Still training for web 4.0 and I will be happy when it comes .
 I have to make cybersecurity and AI a feature because App development is more in demand.
 I cant wait to go back to coding next week.
 
+++++++++++++ 16
+
+I just got back from being burnt out.
+im still tired but i still need some fresh air to go back learning backend dev and dev ops.
+I just liked C++ months ago and decided to understand and use it.
+Well i did have some stored pdfs about python,c++ and other programming languages that i can share.
+I did forgot that i have those things and also forgot to rate the seller in facebook after 3 months buying it.
+
+
+
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
