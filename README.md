@@ -173,7 +173,10 @@ I just got back from being burnt out.
 im still tired but i still need some fresh air to go back learning backend dev and dev ops.
 I just liked C++ months ago and decided to understand and use it.
 Well i did have some stored pdfs about python,c++ and other programming languages that i can share.
-I did forgot that i have those things and also forgot to rate the seller in facebook after 3 months buying it.
+I did forgot that i have those things and also forgot to rate the seller wth 5stars in facebook after 3 months buying it.
+C++ is also a must in webdev and IOT. 
+I know it still gave me past traumas making triangles in loops but I learned to love the complexity of it.
+
 
 
 
