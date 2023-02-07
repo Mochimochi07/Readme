@@ -183,10 +183,11 @@ I like the fact that this thing give me the curiosity in things like how does on
 btw it uses a separate channel with a function(with damage calculation and targeting) to connect the controls pressed and targets the unit.
 yeah i just searched that in neural networks and it just gave me a boost.
 
+++++++++++++ 17
 
-
-
-
+I just used some of my timme to think about automation.
+It just gave me the good times when learning it.
+Im still tired and I want to take my time aand do other stuff.
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
