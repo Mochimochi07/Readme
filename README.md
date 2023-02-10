@@ -196,7 +196,7 @@ Certainly i wont be active in this for months.
 i havee decided to go find valuable things thatt i can find.
 Its an IOT thing and its kinda time consuming if i would stay here long.
 I dont know when will i comme back andd be active.
-I will not be active but i will be uploading a maximum of 3 to 10 repositories per month.
+I will not be active for a time.
 well its a good thing for me that i have uploaded some 40+repositories.
 I know that sums up a little basics in web dev.
 
