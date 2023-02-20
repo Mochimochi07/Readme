@@ -13,4 +13,11 @@ Yeah, i had 10 years of experience in business and less experience in other stuf
 I also have other people who trains me well but i sometimes lack the time to do things efficiently because of burnouts.
 The strong desire must be in that spot because its really IOT.
 The desire for improvement and the desire to be better everyday.
+
 The true meaning of IOT is the connection of the things for improvement.
+And not the other way around which is giving things sensors and other stuff.
+Yeah, its kinda more like the Tesla's AC and Edison's DC where every current is connected wired or wireless.
+In terms of IOT, this can be a huge advantage or disadvantage because of distribution.
+Some may be lowcost and some may be expensive.
+
+
