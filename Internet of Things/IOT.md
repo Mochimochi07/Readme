@@ -10,5 +10,6 @@ There are tons of misunderstanding in here like self proclaimation, the sensorin
 
 The self proclaimation vs self trained in IOT is not really a thing here but the thing is IOT needs to have a strong desire for the future.
 Yeah, i had 10 years of experience in business and less experience in other stuff so i say that i am eligible for IOT.
+I also have other people who trains me well but i sometimes lack the time to do things efficiently because of burnouts.
 The strong desire must be in that spot because its really IOT.
 The true meaning of IOT is the connection of the things for improvement.
