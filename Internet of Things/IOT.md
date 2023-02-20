@@ -16,9 +16,12 @@ The desire for improvement and the desire to be better everyday.
 
 The true meaning of IOT is the connection of the things for improvement.
 And not the other way around which is giving things sensors and other stuff.
+Putting Sensors in things are in the field of Robotics.
+Well, im not putting Robotics off but Robotics should not be the main thing for IOT.
+It should always be Data.
 Yeah, its kinda more like the Tesla's AC and Edison's DC where every current is connected wired or wireless.
-In terms of IOT, this can be a huge advantage or disadvantage because of distribution.
-Some may be lowcost and some may be expensive.
-and some may be dangerous and the other may be not.
+In terms of IOT, this can be a huge advantage or disadvantage because of distribution of data.
+Some transcations of IOT may be lowcost and some may be expensive.
+and some uses may be dangerous while the other may be not.
 
 
