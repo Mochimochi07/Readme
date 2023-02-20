@@ -19,5 +19,6 @@ And not the other way around which is giving things sensors and other stuff.
 Yeah, its kinda more like the Tesla's AC and Edison's DC where every current is connected wired or wireless.
 In terms of IOT, this can be a huge advantage or disadvantage because of distribution.
 Some may be lowcost and some may be expensive.
+and some may be dangerous and the other may be not.
 
 
