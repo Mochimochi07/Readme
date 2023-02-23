@@ -179,3 +179,7 @@ Well, screw the few time for the resting part!
 I'm going to be in IOT in the future by the way so.
 LEZDUIT!
 
+I still gonna have a little rest though.
+meh, just wanna get confident and not depressed.
+I still have thinngs to do.
+
