@@ -172,4 +172,9 @@ i tried before but i made a mistake because i didnt have the skills to do it bef
 Although i had forgotten about that because of multiple burnouts throughout the years.
 I am happy that im doing it.
 I may take time to rest and refrain from using github.
-well, im going to post some time.
+well, im going to post sometime.
+
+Well, screw the resting part!
+I'm going to be in IOT by the way so.
+LEZDUIT!
+
