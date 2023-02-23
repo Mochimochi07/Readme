@@ -174,7 +174,8 @@ I am happy that im doing it.
 I may take time to rest and refrain from using github.
 well, im going to post sometime.
 
-Well, screw the resting part!
-I'm going to be in IOT by the way so.
+I took the rest i needed.
+Well, screw the few time for the resting part!
+I'm going to be in IOT in the future by the way so.
 LEZDUIT!
 
