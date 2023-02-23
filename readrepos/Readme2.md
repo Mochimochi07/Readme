@@ -168,7 +168,7 @@ well, a break from some things because i just want to do something that i always
 Its kinda personal and i dont like showing it.
 That's sweet to remember.
 Now i can do things that i really enjoy everyday.
-i tried before but i made a mistake because i didnt have the skills to do it.
+i tried before but i made a mistake because i didnt have the skills to do it before.
 Although i had forgotten about that because of multiple burnouts throughout the years.
 I am happy that im doing it.
 I may take time to rest and refrain from using github.
