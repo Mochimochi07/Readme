@@ -189,4 +189,6 @@ Things go so fast.
 I cant wait to show some percent of my skills.
 Better to expect the worst now.
 Well, lets find out.
+I just took a little exercise.
+resting for a little made my inner psyduck go brr.
 
