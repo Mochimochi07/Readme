@@ -191,5 +191,7 @@ Better to expect the worst now.
 Well, lets find out.
 I just took a little exercise.
 resting for a little made my inner psyduck go brr.
+This thing reminds me of DND and rick & morty.
+just wanna play twice "scientist" for the moment and feel the inner doffensmirtz making tons of -inators
 
 
