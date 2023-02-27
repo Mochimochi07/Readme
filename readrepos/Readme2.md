@@ -183,3 +183,10 @@ I still gonna have a little rest though.
 meh, just wanna get confident and not depressed.
 I still have thinngs to do.
 
+++++++++++++ 31
+
+Things go so fast.
+I cant wait to show some percent of my skills.
+Better to expect the worst now.
+Well, lets find out.
+
