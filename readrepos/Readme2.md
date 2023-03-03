@@ -195,4 +195,14 @@ This thing reminds me of DND and rick & morty.
 just wanna play twice "scientist" for the moment and feel the inner doffensmirtz making tons of -inators
 or maybe just the signal jjirit part.
 
+++++++++++++ 32
 
+Well, I came back here just to continue working on myself.
+even just for reading, and learning little things.
+I always think to work with codes months ago.
+I still have things to do but i might need to take a little read on codes and architecture.
+I kinda need the curiosity back on track. 
+I might read more on codes and physics for the mean time.
+Things reminded me back in the days where i got my passion for upgrades.
+Will be back on coding for a while.
+i dont know when but ill just post it anyways.
