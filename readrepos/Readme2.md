@@ -206,3 +206,10 @@ I might read more on codes and physics for the mean time.
 Things reminded me back in the days where i got my passion for upgrades.
 Will be back on coding for a while.
 i dont know when but ill just post it anyways.
+
+++++++++++++ 33
+
+Well, I just posted a little physics today.
+Its about percentage errors. 
+approx minus actual divided by actual times one hundred.
+
