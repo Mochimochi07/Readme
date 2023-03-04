@@ -212,4 +212,7 @@ i dont know when but ill just post it anyways.
 Well, I just posted a little physics today.
 Its about percentage errors. 
 approx minus actual divided by actual times one hundred.
+Yeah, i also found old books.
+old books in the 1990's
+Which might help me go back and learn machine code easily.
 
