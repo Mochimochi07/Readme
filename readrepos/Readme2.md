@@ -221,6 +221,14 @@ Which might help me go back and learn machine code easily.
 Still configuring my Repos for my technology.
 DAJtech is the name of thee technology.
 No, its not a company or a business name.
-Its my technology and i already made some improvements from my spirit and curiosity.
+Its my technology and i already made some improvements for it from my spirit and my curiosity.
+contact me and you can ask me more infos about it but not the confidential parts.
 In the FAQS you might find the answers you're looking for.
+I put on the FAQS and decided that if i would ever have a website.
+i mean my own website.
+if my server for my website is down then i can use Github as a temporary read me.
+But im not goinng to connect this to it.
+and im not goingg to post my siterepo here.
+my freemium apps would be in my website.
+So stay tuned.
 It will take some time to reconfigure this.
