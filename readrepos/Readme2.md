@@ -240,6 +240,9 @@ Been a little curious lately.
 I had read the sites and references.
 The problem was'nt the phase out.
 it was the comply or get removed.
+and the solutions and alternatives given are hella bad .
+not to mention it really needs no air conditioning.
+and it needs solar power to charge it and and a backup battery when the jeep life batt starts going off.
 Turns out theres no way to get those things back.
 well technically there was if they filed a counter about it before.
 not coming from me but from the references that i read because of Pres. Pnoy already made a decision about phasing out jeep years ago.
@@ -247,7 +250,7 @@ and theres already an anti air pollution act.
 I know upgrading is expensive but that modern SUV is not a good upgrade.
 I kinda miss the thrill of jeep going left and right.
 when i was a little child i always feel like jeepneys are going to fall to either left and right because of the imbalance.
-and that is hella scary man.
+and that experience is hella scary man.
 it reminds me back playing GTA missions in PSA where i always go rolling using the bus whenever i go either left or right.
 
 I remembered that i made an upgrade for jeepneys in my first year college.
