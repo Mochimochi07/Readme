@@ -257,9 +257,9 @@ it reminds me back playing GTA missions in PSA where i always go rolling using t
 I remembered that i made an upgrade for jeepneys in my first year college.
 its not a college or school project btw.
 i dont know if its first or second year.
-yea, i remembered.
+yea, i remembered that it kinda looks like a mini bus.
 it was a few design but not much for modern.
-people need tons of generators to reduce the electricity cost.
+people need tons of generators for that to reduce the electricity cost to charge batteries.
 i didnt included it in my Project INCERT.
 The project was made by me for Sen. Miriam Santiago.
 I already told my professor about project INCERT.
