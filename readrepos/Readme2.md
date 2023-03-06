@@ -243,6 +243,7 @@ it was the comply or get removed.
 and the solutions and alternatives given are hella bad .
 not to mention it really needs no air conditioning.
 and it needs solar power to charge it and and a backup battery when the jeep life batt starts going off.
+Im gonna neeed to learn more about OHMS law for that.
 Turns out theres no way to get those things back.
 well technically there was if they filed a counter about it before.
 not coming from me but from the references that i read because of Pres. Pnoy already made a decision about phasing out jeep years ago.
