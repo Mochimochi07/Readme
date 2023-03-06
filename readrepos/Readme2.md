@@ -236,4 +236,16 @@ It will take some time to reconfigure this.
 ++++++++++++ 35
 
 Yeah, ive been thinking on what is the jeepney strike all about.
+Been a little curious lately.
+I had read the sites and references.
+Turns out theres no way to get those things back.
+not coming from me but from the references that i read because of Pres. Pnoy already made a decision about phasing out jeep years ago.
+and theres already an anti air pollution act.
+I know upgrading is expensive but that modern SUV is not a good upgrade.
+I kinda miss the thrill of jeep going left and right.
+when i was a little child i always feel like jeepneys are going to fall to either left and right because of the imbalance.
+and that is hella scary man.
+it reminds me back playing GTA missions in PSA where i always go rolling using the bus.
+
+
 
