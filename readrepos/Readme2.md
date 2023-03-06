@@ -254,13 +254,14 @@ and that experience is hella scary man.
 it reminds me back playing GTA missions in PSA where i always go rolling using the bus whenever i go either left or right.
 
 I remembered that i made an upgrade for jeepneys in my first year college.
+its not a college or school project btw.
 i dont know if its first or second year.
 yea, i remembered.
 it was a few design but not much for modern.
 i didnt included it in my Project INCERT.
 The project was made by me for Sen. Miriam Santiago.
 I already told my professor about project INCERT.
-
+welp. time for configuration i guess.
 
 
 
