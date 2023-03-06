@@ -216,3 +216,11 @@ Yeah, i also found old books.
 old books in the 1990's
 Which might help me go back and learn machine code easily.
 
+++++++++++++ 34
+
+Still configuring my Repos for my technology.
+DAJtech is the name of thee technology.
+No, its not a company or a business name.
+Its my technology and i already made some improvements from my spirit and curiosity.
+In the FAQS you might find the answers you're looking for.
+It will take some time to reconfigure this.
