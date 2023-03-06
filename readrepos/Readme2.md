@@ -232,3 +232,8 @@ and im not goingg to post my siterepo here.
 my freemium apps would be in my website.
 So stay tuned.
 It will take some time to reconfigure this.
+
+++++++++++++ 35
+
+Yeah, ive been thinking on what is the jeepney strike all about.
+
