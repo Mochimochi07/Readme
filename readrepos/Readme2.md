@@ -258,6 +258,7 @@ its not a college or school project btw.
 i dont know if its first or second year.
 yea, i remembered.
 it was a few design but not much for modern.
+people need tons of generators to reduce the electricity cost.
 i didnt included it in my Project INCERT.
 The project was made by me for Sen. Miriam Santiago.
 I already told my professor about project INCERT.
