@@ -238,14 +238,29 @@ It will take some time to reconfigure this.
 Yeah, ive been thinking on what is the jeepney strike all about.
 Been a little curious lately.
 I had read the sites and references.
+The problem was'nt the phase out.
+it was the comply or get removed.
 Turns out theres no way to get those things back.
+well technically there was if they filed a counter about it before.
 not coming from me but from the references that i read because of Pres. Pnoy already made a decision about phasing out jeep years ago.
 and theres already an anti air pollution act.
 I know upgrading is expensive but that modern SUV is not a good upgrade.
 I kinda miss the thrill of jeep going left and right.
 when i was a little child i always feel like jeepneys are going to fall to either left and right because of the imbalance.
 and that is hella scary man.
-it reminds me back playing GTA missions in PSA where i always go rolling using the bus.
+it reminds me back playing GTA missions in PSA where i always go rolling using the bus whenever i go either left or right.
+
+I remembered that i made an upgrade for jeepneys in my first year college.
+i dont know if its first or second year.
+yea, i remembered.
+it was a few design but not much for modern.
+i didnt included it in my Project INCERT.
+The project was made by me for Sen. Miriam Santiago.
+I already told my professor about project INCERT.
+
+
+
+
 
 
 
