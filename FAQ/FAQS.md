@@ -45,5 +45,7 @@ the ideas came from my curiosity while i do my thing through hardwork.
 I know mochi is a japanese rice cake and i do know in my stomach that i want to try some of those in the future.
 i just like rice cakes and i found about Charlotte Katakuri in One Piece.
 Yeah, the one that can see through the future and has rice cake power.
-i just saw that we were quite similar.
+i just saw that we were quite similar since he has a big mouth and he also likes donuts.
+not to mention katakuri can easily win eating contests easily.
+i also won before through the use of some techniques.
 thats just how i made it.
