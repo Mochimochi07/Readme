@@ -49,3 +49,16 @@ i just saw that we were quite similar since he has a big mouth and he also likes
 not to mention katakuri can easily win eating contests through the use of his big mouth.
 i also won before through the use of some techniques.
 thats just how i made it.
+
+•How are you able to generate questions that?
+
+>I had personal abilities,skills and techniques that i didnt put in my resume.
+not because of bragging or anything but its kinda more of a concious thing where i would still need to control and master those things.
+I made techniques for my studies knowing that things will go really hard.
+i still go with it even though the odds are not really mine.
+its stressful to use those really but its beneficial for me to use them.
+I cant tell much about those things now but i might put it up in the future.
+its kinda better to me just to use proper energy management since work will be stressful.
+im currently not taking my master's because i need so many things so that i can be accepted in a master's program.
+
+
