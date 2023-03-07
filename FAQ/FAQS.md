@@ -35,9 +35,9 @@ Well lets just say that when we learn physics we will understand the principles 
 •Are there other programming languages?
 
 >Well, there are tons of programming languages i currently learn i and i recently acquired old books about it like assembly,clipper,etc.
->you cant see it here by the way.
+you cant see it here by the way.
 Just data privacy. 
-the ideas came from my curiosity while i do my thing through hardwork. 
+the ideas in here came from my curiosity while i do my thing through hardwork. 
 
 •How did you made your username?
 
