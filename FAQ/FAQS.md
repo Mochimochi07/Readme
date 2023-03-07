@@ -34,6 +34,16 @@ Well lets just say that when we learn physics we will understand the principles 
 
 •Are there other programming languages?
 
->Well, there are tons of programming languages i currently learn and you cant see it here by the way.
-Just data privacy. i post other things here like in golang and javascript PUBLICLY knowing that here are already existing templates for those things.
-and i dont post things publicly where people can sell it easily. the ideas came from my curiosity while i do my thing through hardwork.
+>Well, there are tons of programming languages i currently learn i and i recently acquired old books about it like assembly,clipper,etc.
+>you cant see it here by the way.
+Just data privacy. 
+the ideas came from my curiosity while i do my thing through hardwork. 
+
+•How did you made your username?
+
+>I used my own childhood favorite food. 
+I know mochi is a japanese rice cake and i do know in my stomach that i want to try some of those in the future.
+i just like rice cakes and i found about Charlotte Katakuri in One Piece.
+Yeah, the one that can see through the future and has rice cake power.
+i just saw that we were quite similar.
+thats just how i made it.
