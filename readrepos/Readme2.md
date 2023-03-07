@@ -265,6 +265,13 @@ The project was made by me for Sen. Miriam Santiago.
 I already told my professor about project INCERT.
 welp. time for configuration i guess.
 
+++++++++++++ 35
+
+yea, i had trouble finding a new c++ framework.
+I finished some parts of chapter 1 in physics.
+theres a lot to take in sinces theyre from dimension 1 to 3 (x,y,z).
+its good to hear that im in velocity,time and displacement. 
+now i can see more of Newton's Laws.
 
 
 
