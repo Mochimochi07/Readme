@@ -25,3 +25,5 @@ Golangg and javascript for webdev,  C++ for embedded, Java and python(kivy) for 
 yeah, its kinda hard having to learn them because theres alot to learn in order for me to go for IOT.
 I currently learn and study C++ and javascript for learning thinngs in web  and embedded.
 I might learn React for web and Reactnative for mobile apps.
+I learn physics everyday using C++ because it has a huge component to IOT and modernization.
+Learning Physics is highly beneficial because we know how to make things done using proper calculations.
