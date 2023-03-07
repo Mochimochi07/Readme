@@ -23,6 +23,7 @@ I mainly learn and use atleast one static and dynamic programming language.
 i use those things for studies so that i can study more app because the resources needed to learn varies in different languages.
 Golangg and javascript for webdev,  C++ for embedded, Java and python(kivy) for mobile, C# andd Xojo for IOT.
 yeah, its kinda hard having to learn them because theres alot to learn in order for me to go for IOT.
+I dont use python anymore butt i mightt consider learning Datascience again.
 I currently learn and study C++ and javascript for learning thinngs in web  and embedded.
 I might learn React for web and Reactnative for mobile apps.
 I learn physics everyday using C++ because it has a huge component to IOT and modernization.
