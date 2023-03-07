@@ -272,6 +272,10 @@ I finished some parts of chapter 1 in physics.
 theres a lot to take in sinces theyre from dimension 1 to 3 (x,y,z).
 its good to hear that im in velocity,time and displacement. 
 now i can see more of Newton's Laws.
+In terms of c++ framework.
+My head would explode because of Crow c++ that looks like flask.
+another month of making templates again.
+might as well need to find another or i'll just stick to Golang.
 
 
 
