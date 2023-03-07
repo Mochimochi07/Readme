@@ -2,7 +2,7 @@
 
 •What is Dajtech?
 
->>Dajtech is my own technology along with oyher tecchnologies existing.
+>Dajtech is my own technology along with oyher tecchnologies existing.
 It is not a company or a business. Its how i make things better. 
 I meant its more of an upgrading type of technology where i use present,past and future resources.
 It goes along in time and with time so naming it as a technology would count.
@@ -18,7 +18,7 @@ I wont say how this works because thats really inapropriate and confidential.
 
 •How many programming language do you know?
 
->>I learned Java,C#,Python,C,C++,Cobol,Javascript,Golang and Xojo.
+>I learned Java,C#,Python,C,C++,Cobol,Javascript,Golang and Xojo.
 I mainly learn and use atleast one static and dynamic programming language.
 i use those things for studies so that i can study more app because the resources needed to learn varies in different languages.
 Golangg and javascript for webdev,  C++ for embedded, Java and python(kivy) for mobile, C# andd Xojo for IOT.
@@ -31,3 +31,9 @@ I might learn React for web and Reactnative for mobile apps.
 I learn physics everyday using C++ because it has a huge component to IOT and modernization.
 Learning Physics is highly beneficial because we know how to make things done using proper calculations.
 Well lets just say that when we learn physics we will understand the principles of how thinngs work around us.
+
+•Are there other programming languages?
+
+>Well, there are tons of programming languages i currently learn and you cant see it here by the way.
+Just data privacy. i post other things here like in golang and javascript PUBLICLY knowing that here are already existing templates for those things.
+and i dont post things publicly where people can sell it easily. the ideas came from my curiosity while i do my thing through hardwork.
