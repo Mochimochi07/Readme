@@ -28,3 +28,4 @@ I currently learn and study C++ and javascript for learning thinngs in web  and 
 I might learn React for web and Reactnative for mobile apps.
 I learn physics everyday using C++ because it has a huge component to IOT and modernization.
 Learning Physics is highly beneficial because we know how to make things done using proper calculations.
+Well lets just say that when we learn physics we will understand the principles of how thinngs work around us.
