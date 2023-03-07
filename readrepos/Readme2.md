@@ -279,7 +279,10 @@ might as well need to find another or i'll just stick to Golang.
 Yup, i saw some frameworks. its hard to understand and yeah i might as well go back to golang for web dev.
 C++ for embedded.
 Well sometimes i kinda wanted things to be one code base.
-
+C++ with IDEs are preferred.
+I dont like IDEs very much because that is slow.
+the scary part of IDE is the storage that looks like my computer would crash because of the installation.
+Back to JAvascript and golang for webdev.
 
 
 
