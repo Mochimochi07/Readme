@@ -276,6 +276,10 @@ In terms of c++ framework.
 My head would explode because of Crow c++ that looks like flask.
 another month of making templates again.
 might as well need to find another or i'll just stick to Golang.
+Yup, i saw some frameworks. its hard to understand and yeah i might as well go back to golang for web dev.
+C++ for embedded.
+Well sometimes i kinda wanted things to be one code base.
+
 
 
 
