@@ -293,6 +293,8 @@ now i just needed to learn some of these so i might need a little time to catch 
 well i might deploy my own github backend samples in heroku.
 i'll be out for days.
 imight post some c++ but ill prioritize some react and native for the moment.
+i never knew that these react are kinda slow to install.
+i might need some time.
 
 
 
