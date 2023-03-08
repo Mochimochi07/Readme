@@ -298,5 +298,17 @@ i might need some time.
 Nope, i am not gonna wait that long for react and native.
 i might as well use REPLIT.
 
+++++++++++++ 37 to 40
 
+Well, im just here going to take some time to rest and reverse engineer some things.
+i'll take the time to learn i really mean it.
+and im just going to fork things in github now.
+its a good thing i learn Application architecture with programming.
+i know im multi tasking but i just needed a front end stack to learn and ill go with it.
+besides, i already know how to connect things now.
+client side with fetch and back end with endpoints.
+apis with auth generator and tons of middle ware.
+
+
+ill be back before april but ill be posting without comments or anything
 
