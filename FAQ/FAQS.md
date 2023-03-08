@@ -61,7 +61,7 @@ I cant tell much about those things now but i might put it up in the future.
 its kinda better to me just to use proper energy management since work will be stressful.
 im currently not taking my master's because i need so many things so that i can be accepted in a master's program.
 
-•Can companies have a sample for DAJtech?
+•Can companies have a sample from DAJtech?
 
 >Yes, companies can have a sample for Dajtech. 
 i meant i can give companies upgrades and blueprints for prototypes for free if they like it.
