@@ -298,7 +298,7 @@ i might need some time.
 Nope, i am not gonna wait that long for react and native.
 i might as well use REPLIT.
 
-++++++++++++ 37 to 40
+++++++++++++ 37 to 39
 
 Well, im just here going to take some time to rest and reverse engineer some things.
 i'll take the time to learn i really mean it.
@@ -311,4 +311,14 @@ apis with auth generator and tons of middle ware.
 
 
 ill be back after april but ill be posting without comments or anything
+
+++++++++++++ 40
+
+Im off to a good start.
+I chose slim php to learn.
+well. i just pick some GOLANG GIN alternatives.
+what? GOlang is blazingly fast and on par with RUST.
+performance, speed and secirity is a must in the backend servers.
+as well as experience so its a good thning that i learned Go and expresswith their microframeworks so that that i can learn more as well.
+
 
