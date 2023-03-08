@@ -291,7 +291,8 @@ i just put electron as a maybe because of large dependencies needed to be downlo
 and i already picked visual studio ide for c# and Xojo ide for easy windows app.
 now i just needed to learn some of these so i might need a little time to catch up for more fullstack.
 well i might deploy my own github backend samples in heroku.
-
+i'll be out for days.
+imight post some c++ but ill prioritize some react and native for the moment.
 
 
 
