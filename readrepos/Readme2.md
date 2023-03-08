@@ -284,6 +284,13 @@ I dont like IDEs very much because that is slow.
 the scary part of IDE is the storage that looks like my computer would crash because of the installation.
 Back to JAvascript and golang for webdev.
 
+++++++++++++ 36
+
+I just ready React, react-native and maybe electron.
+i just put electron as a maybe because of large dependencies needed to be downloaded.
+and i already picked visual studio ide for c# and Xojo ide for easy windows app.
+now i just needed to learn some of these so i might need a little time to catch up for more fullstack.
+well i might deploy my own github backend samples in heroku.
 
 
 
