@@ -310,5 +310,5 @@ client side with fetch and back end with endpoints.
 apis with auth generator and tons of middle ware.
 
 
-ill be back before april but ill be posting without comments or anything
+ill be back after april but ill be posting without comments or anything
 
