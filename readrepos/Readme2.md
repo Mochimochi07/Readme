@@ -295,6 +295,8 @@ i'll be out for days.
 imight post some c++ but ill prioritize some react and native for the moment.
 i never knew that these react are kinda slow to install.
 i might need some time.
+Nope, i am not gonna wait that long for react.
+i might as well use REPLIT.
 
 
 
