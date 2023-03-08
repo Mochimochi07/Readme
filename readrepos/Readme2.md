@@ -317,8 +317,11 @@ ill be back after april but ill be posting without comments or anything
 Im off to a good start.
 I chose slim php to learn.
 well. i just pick some GOLANG GIN alternatives.
-what? GOlang is blazingly fast and on par with RUST.
+what? 
+GOlang is blazingly fast and on par with RUST.
 performance, speed and secirity is a must in the backend servers.
 as well as experience so its a good thning that i learned Go and expresswith their microframeworks so that that i can learn more as well.
-
+im still learning dynamic languages. 
+im not comfortable with javascript anymore.
+might as well explore other languages.
 
