@@ -61,13 +61,10 @@ I cant tell much about those things now but i might put it up in the future.
 its kinda better to me just to use proper energy management since work will be stressful.
 im currently not taking my master's because i need so many things so that i can be accepted in a master's program.
 
-•Can companies have a sample from DAJtech?
+•Why did you remove the readmes and the questions?
 
->Yes, companies can have a sample for Dajtech. 
-i meant i can give companies upgrades and blueprints for prototypes for free if they like it.
-the only problem is that dajtech needs no funding because its a technology and ill be the one funding it with my money.
-i am confident that i can but i need experience and tons of trainings along with it.
-i just need experience,techniques,models and other things so that i can make more upgrades, more apps, and other things.
-i train everyday with physics and other things of course.
-things like this are confidential can be discussed in interviews or special assessments.
+>I took it off because i will nott be active here anymore.
+yeaah. Thinngs,people and others are making me very uncomfortable thats why i decided not to give companies a sample.
+i havent given companies some samples and i will refuse to give samples from now on.
+
 
