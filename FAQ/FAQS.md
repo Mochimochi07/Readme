@@ -91,8 +91,14 @@ Its one of my skill to know what to do next.
 Forensics is a good to have in Developing apps because i would have a good taste on what clients need.
 And not just that it helps me read codes much easier and faster because of Architecture and cryptography.
 People go for architecture because it literally says everything about the worrkflow.
-I designed INCERT for that because Vaccine cards are valuable but theyre becoming useless nowadays.
-i know that i dont have thosee necessary skills but im still worrking on it.
+An example is this.
+the problem is international police sometimes uses drugs and somme dogs to implant illegal things.
+so having a hidden camera in the vehicle connected to the internet  would be a good thing to have.
+to have a support foor that. i designed some stations where peeople would login to locations with their cards intact.
+This is just effective for other countries though.
+effective to have backup plans.
+Since people are having a big deal on police and racism.
+i know that i dont have designing skills but im still worrking on it.
 But i do want to be called Dr. Detective Boss A.J. with a P.H.D Andd M.D.
 that would be hard and awesome at the same time to fill out my own papers.
 Doctor forr my acads, detective for making IOT while making deductions, andd Boss because im gonna make tons of business.
@@ -102,7 +108,7 @@ Doctor forr my acads, detective for making IOT while making deductions, andd Bos
 They're uncomfortablle because of my extreme belief in things.
 Ever heard of Samson and Delilah? yeah, that but im still a christian even without the vow.
 I customized my vow so me and other people couldnt destroy it easily.
-Time and Spirit is my friend so its a good thing that theyre around.
+Time and Spirit are my friend so its a good thing that theyre around.
 
 •What Type of programming language do you use mainly.
 > I mainly use Golang for static and Now im learning PHP for dynamic.
