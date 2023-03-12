@@ -109,11 +109,3 @@ They're uncomfortablle because of my extreme belief in things.
 Ever heard of Samson and Delilah? yeah, that but im still a christian even without the vow.
 I customized my vow so me and other people couldnt destroy it easily.
 Time and Spirit are my friend so its a good thing that theyre around.
-
-•What Type of programming language do you use mainly.
-> I mainly use Golang for static and Now im learning PHP for dynamic.
-its kinda good to have golang for microservices andd backend development.
-The idea of having simplicity in your mode of learning is good to have so that It would bbe easy to make and easy to understand.
-The good thing about using frameworks is the fast learning experience to have a faster deployment of those apps.
-You know what they say. "The simple the programs the more experienced the programmer should be."
-Its a good thing i learned Golang because I like makinng thoose backend systems fast.
