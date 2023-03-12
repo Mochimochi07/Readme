@@ -75,8 +75,7 @@ I made a choice to make it better but i kinnda have to sacrifice my sanity and h
 
 •Tell me some techniques of yours.
 >Sincerely i havee tons of them.
-Im just going to expose one.
-
+Im just going to expose one skill.
 Well a good thing for people is my forensic skill.
 Forensics? 
 Yes! Cybersecurity might be gone in the future so forensics would be a good thing to have wwhen IOT commes out.
@@ -96,7 +95,7 @@ I designed INCERT for that because Vaccine cards are valuable but theyre becomin
 i know that i dont have thosee necessary skills but im still worrking on it.
 But i do want to be called Dr. Detective Boss A.J. with a P.H.D Andd M.D.
 that would be hard and awesome at the same time to fill out my own papers.
-
+Doctor forr my acads, detective for making IOT while making deductions, andd Boss because im gonna make tons of business.
 
 •How about your belief?
 >People would call me a templar but im a Nazarite. 
