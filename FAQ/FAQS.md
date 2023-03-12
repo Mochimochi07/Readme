@@ -61,10 +61,54 @@ I cant tell much about those things now but i might put it up in the future.
 its kinda better to me just to use proper energy management since work will be stressful.
 im currently not taking my master's because i need so many things so that i can be accepted in a master's program.
 
-•Why did you remove the readmes and the questions?
+•Why did you come back?
+>I took a break. pardon but i had a laptop full of virus so i have tto make a clean for it.
+I have an intel i2 laptop so its not good to have tons of virus in there. 
+i almost made a mistake to make the files disappear.
+I want to take this time to set thing bacck to where it belongs.
 
->I took it off because i will nott be active here anymore.
-yeaah. Thinngs,people and others are making me very uncomfortable thats why i decided not to give companies a sample.
-i havent given companies some samples and i will refuse to give samples from now on.
+•Why do you call yourself Futuristic Developer? is Futuristic a programming language?
+>I am highly futuristic because i always think clearly about my next step. As a futuristic person i do not like to be-
+Involved in politics and modernity things(lgbtq,equality,etc).
+Well i do have some ideologies, faith, things, aand other thinngs in those areas but i prefer to make a good thing for the next generation.
+I made a choice to make it better but i kinnda have to sacrifice my sanity and heart for that.
+
+•Tell me some techniques of yours.
+>Sincerely i havee tons of them.
+Im just going to expose one.
+
+Well a good thing for people is my forensic skill.
+Forensics? 
+Yes! Cybersecurity might be gone in the future so forensics would be a good thing to have wwhen IOT commes out.
+I mean no more cyberbullying, no more alters in twitter, no more human trafficking,etc.
+BUT physical objects where you can be connected in the internet easily wherever you go might scare people out.
+so in that case people will just try to come and hurt others physically.
+Like getting peoples fingers cut inorder to use the biometric system to open locks.
+The example that i was thinking is just connecting things.
+To do it is just control your anxiety.
+I know its ironic to hear that because anxiety cannot bbe controlled but it needs curiosity to control that.
+I meaan if you ever have a feeling to talk to a stranger or do somethinng that you miggt need to have.
+Its one of my skill to know what to do next.
+Forensics is a good to have in Developing apps because i would have a good taste on what clients need.
+And not just that it helps me read codes much easier and faster because of Architecture and cryptography.
+People go for architecture because it literally says everything about the worrkflow.
+I designed INCERT for that because Vaccine cards are valuable but theyre becoming useless nowadays.
+i know that i dont have thosee necessary skills but im still worrking on it.
+But i do want to be called Dr. Detective Boss A.J. with a P.H.D Andd M.D.
+that would be hard and awesome at the same time to fill out my own papers.
 
 
+•How about your belief?
+>People would call me a templar but im a Nazarite. 
+They're uncomfortablle because of my extreme belief in things.
+Ever heard of Samson and Delilah? yeah, that but im still a christian even without the vow.
+I customized my vow so me and other people couldnt destroy it easily.
+Time and Spirit is my friend so its a good thing that theyre around.
+
+•What Type of programming language do you use mainly.
+> I mainly use Golang for static and Now im learning PHP for dynamic.
+its kinda good to have golang for microservices andd backend development.
+The idea of having simplicity in your mode of learning is good to have so that It would bbe easy to make and easy to understand.
+The good thing about using frameworks is the fast learning experience to have a faster deployment of those apps.
+You know what they say. "The simple the programs the more experienced the programmer should be."
+Its a good thing i learned Golang because I like makinng thoose backend systems fast.
